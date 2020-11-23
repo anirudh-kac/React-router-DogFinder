@@ -1,0 +1,14 @@
+.Doglist-dog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Doglist-dog .Doglist-img{
+    width:90%;
+    height: auto;
+    border-radius: 50%;
+    padding: 2rem 1rem; 
+}
